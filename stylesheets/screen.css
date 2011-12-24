@@ -71,7 +71,7 @@
       #intro {
 				color:            #8f8c82;  
 				float:            left;       
-				padding:          46px 0 0 0;
+				padding:          20px 0 0 0;
 				width:            360px;
 			}
 
@@ -347,11 +347,17 @@
 				padding:          5px 0 0 0;
 				position:         relative;
 				width:            260px;
+                
 			}  
 			
 			#content li.main {
 				width:            330px;
 			}
+            
+            #content li.blank {
+                width:            492px;
+                height:           80px;
+            }
 			
    
 
